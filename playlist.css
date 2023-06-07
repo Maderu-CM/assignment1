@@ -1,0 +1,42 @@
+body{
+    background-color: #05d30f;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(musical2.jpg);
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    color: #05d30f;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: goldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.song{
+    width: 350px;
+    height: 500px;
+    border-radius: 3px;
+    background-color: aqua;
+    margin: auto;
+    background-image: url(music\ .jpg);
+}
+.lists {
+    font-size: 18px;
+    text-align: center;
+    line-height: 2.5em;
+    pointer-events: painted;
+    vertical-align: middle;
+   
+}
+input[ type="button"]{
+    width: 320px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 15px;
+    
+
+}
+
+
